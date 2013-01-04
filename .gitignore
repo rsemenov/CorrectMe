@@ -11,3 +11,40 @@
 *.lai
 *.la
 *.a
+
+*.cache
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+*.docstates
+seq diagram1.png
+StyleCop.Cache
+[sS]ettings.[sS]tyle[cC]op
+/tools/[cC]ode[aA]nalysis/
+/tools/[sS]tyle[cC]op/
+seq diagram1.vsd
+v3rebuild.bat
+v3startFitness.bat
+v3unitTests.bat
+*.swp
+*.*~
+*.gpState
+*.ReSharper.*
+*.preflight
+#*.dotCover - The Configuration of unit test exclusions should be shared
+*.orig
+src/common/Wonga.Common.1.1.dotCover
+src/components/CallReport/Wonga.CallReport.1.1.dotCover
+src/components/Equifax/Wonga.Equifax.1.1.dotCover
+src/components/Experian/Wonga.Experian.1.1.dotCover
+src/components/Graydon/Wonga.Graydon.1.1.dotCover
+*.dotCover
+NDependOut/
+*.ndproj
